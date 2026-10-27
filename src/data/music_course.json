@@ -8,7 +8,7 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "image": "/courses/fool.jpg"
     },
     {
       "id": 2,
@@ -48,7 +48,7 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "image": "/courses/gadha.jpg"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 99.99,
       "instructor": "John Doe",
       "isFeatured": true,
-      "image": "/courses/guitar.jpg"
+      "image": "/courses/ladki.jpg"
     }
   ]
 }
